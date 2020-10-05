@@ -29,7 +29,7 @@ namespace Entidades
         /// <summary>
         /// Ciclomotor son 'Chico'
         /// </summary>
-        protected override ETamanio Tamanio //es una sobrecarga, corregido Override y ETamanio
+        protected override ETamanio Tamanio //es una sobreescritura, corregido Override y ETamanio
         {
             get
             {
@@ -39,7 +39,7 @@ namespace Entidades
 
 
         /// <summary>
-        /// Sobrecarga  publica y sellada de Mostrar
+        /// Metodo sobreescrito publico y sellado de Mostrar q hereda de vehiculo
         /// </summary>
         /// <returns></returns>
         public override sealed string Mostrar() 

@@ -26,7 +26,7 @@ namespace Entidades
         /// <summary>
         /// SUV son 'Grande'
         /// </summary>
-        protected override ETamanio Tamanio //es una sobrecarga, corregido Override y ETamanio
+        protected override ETamanio Tamanio // corregido Override y ETamanio
         {
             get
             {

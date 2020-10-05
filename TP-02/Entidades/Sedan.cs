@@ -45,7 +45,7 @@ namespace Entidades
         /// <summary>
         /// Sedan son 'Mediano'
         /// </summary>
-        protected override ETamanio Tamanio //es una sobrecarga, corregido Override y ETamanio
+        protected override ETamanio Tamanio // corregido Override y ETamanio
         {
             get
             {
@@ -55,7 +55,7 @@ namespace Entidades
 
 
         /// <summary>
-        /// Sobreescribe el metodo mostrar de vehiculo, publica y sellada
+        /// Metodo sobreescrito publico y sellado de Mostrar q hereda de vehiculo
         /// </summary>
         /// <returns></returns>
         public override sealed string Mostrar()
