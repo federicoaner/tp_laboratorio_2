@@ -1,0 +1,9 @@
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP-3\Aner.Federico.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP-3\Aner.Federico.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP-3\Aner.Federico.2A.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP-3\Aner.Federico.2A.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP-3\Aner.Federico.2A.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP-3\Aner.Federico.2A.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP-3\Aner.Federico.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP-3\Aner.Federico.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP-3\Aner.Federico.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb

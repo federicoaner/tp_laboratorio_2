@@ -1,0 +1,6 @@
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP-3\Aner.Federico.2A.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP-3\Aner.Federico.2A.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP-3\Aner.Federico.2A.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP-3\Aner.Federico.2A.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP-3\Aner.Federico.2A.TP3\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP-3\Aner.Federico.2A.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache

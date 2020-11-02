@@ -1,0 +1,16 @@
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP-3\Aner.Federico.2A.TP3\TestConsola\bin\Debug\TestConsola.exe.config
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP-3\Aner.Federico.2A.TP3\TestConsola\bin\Debug\TestConsola.exe
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP-3\Aner.Federico.2A.TP3\TestConsola\bin\Debug\TestConsola.pdb
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP-3\Aner.Federico.2A.TP3\TestConsola\bin\Debug\Archivos.dll
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP-3\Aner.Federico.2A.TP3\TestConsola\bin\Debug\Clases Abstractas.dll
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP-3\Aner.Federico.2A.TP3\TestConsola\bin\Debug\Clases Instanciables.dll
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP-3\Aner.Federico.2A.TP3\TestConsola\bin\Debug\Excepciones.dll
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP-3\Aner.Federico.2A.TP3\TestConsola\bin\Debug\Archivos.pdb
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP-3\Aner.Federico.2A.TP3\TestConsola\bin\Debug\Clases Abstractas.pdb
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP-3\Aner.Federico.2A.TP3\TestConsola\bin\Debug\Clases Instanciables.pdb
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP-3\Aner.Federico.2A.TP3\TestConsola\bin\Debug\Excepciones.pdb
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP-3\Aner.Federico.2A.TP3\TestConsola\obj\Debug\TestConsola.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP-3\Aner.Federico.2A.TP3\TestConsola\obj\Debug\TestConsola.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP-3\Aner.Federico.2A.TP3\TestConsola\obj\Debug\TestConsola.csproj.CopyComplete
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP-3\Aner.Federico.2A.TP3\TestConsola\obj\Debug\TestConsola.exe
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP-3\Aner.Federico.2A.TP3\TestConsola\obj\Debug\TestConsola.pdb
