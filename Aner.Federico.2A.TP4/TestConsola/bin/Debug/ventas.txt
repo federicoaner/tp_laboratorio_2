@@ -1,0 +1,17 @@
+CARRITO:
+CANTIDAD: 2
+PRECIO TOTAL: 246
+<--------------------------------------------------------------------------->
+
+MARCA: stratocaste
+MODELO: pepito
+ESTADO:usado
+PRECIO:123
+TIPO: fender
+<--------------------------------------------------------------------------->
+
+MARCA: strae
+MODELO: pepito
+ESTADO:usado
+PRECIO:123
+TIPO: fer

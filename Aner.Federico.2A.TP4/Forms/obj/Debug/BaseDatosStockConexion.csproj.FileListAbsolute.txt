@@ -1,0 +1,66 @@
+C:\Users\feder\source\repos\TP4\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.exe.config
+C:\Users\feder\source\repos\TP4\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.exe
+C:\Users\feder\source\repos\TP4\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.pdb
+C:\Users\feder\source\repos\TP4\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.csprojAssemblyReference.cache
+C:\Users\feder\source\repos\TP4\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.FrmStock.resources
+C:\Users\feder\source\repos\TP4\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.Properties.Resources.resources
+C:\Users\feder\source\repos\TP4\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.csproj.GenerateResource.cache
+C:\Users\feder\source\repos\TP4\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.csproj.CoreCompileInputs.cache
+C:\Users\feder\source\repos\TP4\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.exe
+C:\Users\feder\source\repos\TP4\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.pdb
+C:\Users\feder\Desktop\TP4\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.exe.config
+C:\Users\feder\Desktop\TP4\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.exe
+C:\Users\feder\Desktop\TP4\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.pdb
+C:\Users\feder\Desktop\TP4\BaseDatosStockConexion\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4\BaseDatosStockConexion\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.frmInstrumentos.resources
+C:\Users\feder\Desktop\TP4\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.FrmStock.resources
+C:\Users\feder\Desktop\TP4\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.Properties.Resources.resources
+C:\Users\feder\Desktop\TP4\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.csproj.GenerateResource.cache
+C:\Users\feder\Desktop\TP4\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.csproj.CopyComplete
+C:\Users\feder\Desktop\TP4\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.exe
+C:\Users\feder\Desktop\TP4\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.pdb
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP4-copia\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP4-copia\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.frmInstrumentos.resources
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP4-copia\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.FrmStock.resources
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP4-copia\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.Properties.Resources.resources
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP4-copia\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.csproj.GenerateResource.cache
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP4-copia\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP4-copia\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.exe
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP4-copia\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.pdb
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP4-copia\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.exe.config
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP4-copia\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.exe
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP4-copia\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.pdb
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP4-copia\BaseDatosStockConexion\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP4-copia\BaseDatosStockConexion\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\PROG  II MATERIAL\TP4-copia\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.csproj.CopyComplete
+C:\Users\feder\Desktop\TP4-copia\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4-copia\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.frmInstrumentos.resources
+C:\Users\feder\Desktop\TP4-copia\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.FrmStock.resources
+C:\Users\feder\Desktop\TP4-copia\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.Properties.Resources.resources
+C:\Users\feder\Desktop\TP4-copia\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.csproj.GenerateResource.cache
+C:\Users\feder\Desktop\TP4-copia\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4-copia\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.exe
+C:\Users\feder\Desktop\TP4-copia\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.pdb
+C:\Users\feder\Desktop\TP4-copia\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.exe.config
+C:\Users\feder\Desktop\TP4-copia\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.exe
+C:\Users\feder\Desktop\TP4-copia\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.pdb
+C:\Users\feder\Desktop\TP4-copia\BaseDatosStockConexion\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4-copia\BaseDatosStockConexion\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4-copia\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.csproj.CopyComplete
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -MIERC NOCHE\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.exe.config
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -MIERC NOCHE\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.exe
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -MIERC NOCHE\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.pdb
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -MIERC NOCHE\BaseDatosStockConexion\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -MIERC NOCHE\BaseDatosStockConexion\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -MIERC NOCHE\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -MIERC NOCHE\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.frmInstrumentos.resources
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -MIERC NOCHE\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.FrmStock.resources
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -MIERC NOCHE\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.Properties.Resources.resources
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -MIERC NOCHE\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.csproj.GenerateResource.cache
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -MIERC NOCHE\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -MIERC NOCHE\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.csproj.CopyComplete
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -MIERC NOCHE\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.exe
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -MIERC NOCHE\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.pdb

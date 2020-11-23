@@ -1,0 +1,44 @@
+CASA DE MUSICA:
+CANTIDAD DE VENTAS: 5
+TOTAL ACUMULADO ES: 600900 pesos. 
+
+--------------------------------------------------------
+
+MARCA: Fender
+MODELO: Stratocaster
+ESTADO:usado
+PRECIO:12000
+TIPO: Guitarra Electrica
+FACTURA NRO: 1003
+--------------------------------------------------------
+
+MARCA: Hofner
+MODELO: eldePaul
+ESTADO:usado
+PRECIO:133000
+TIPO: Bajo
+FACTURA NRO: 1004
+--------------------------------------------------------
+
+MARCA: Tama
+MODELO: rx
+ESTADO:nuevo
+PRECIO:160500
+TIPO: Bateria
+FACTURA NRO: 1005
+--------------------------------------------------------
+
+MARCA: Gibson
+MODELO: Les Paul
+ESTADO:nuevo
+PRECIO:170900
+TIPO: Guitarra Electrica
+FACTURA NRO: 1006
+--------------------------------------------------------
+
+MARCA: Gibson
+MODELO: Sg
+ESTADO:usado
+PRECIO:124500
+TIPO: Guitarra Electrica
+FACTURA NRO: 1007

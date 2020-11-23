@@ -1,0 +1,78 @@
+C:\Users\feder\Desktop\TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4-copia\Entidades\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4-copia\Entidades\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4-copia\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4-copia\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4-copia\Entidades\obj\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4-copia\Entidades\obj\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -MIERC NOCHE\Entidades\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -MIERC NOCHE\Entidades\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -MIERC NOCHE\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -MIERC NOCHE\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -MIERC NOCHE\Entidades\obj\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -MIERC NOCHE\Entidades\obj\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -juetarde\Entidades\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -juetarde\Entidades\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -juetarde\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -juetarde\Entidades\obj\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -juetarde\Entidades\obj\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -juetarde\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4 CON CLASE confactura JUE 21\Entidades\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 CON CLASE confactura JUE 21\Entidades\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 CON CLASE confactura JUE 21\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4 CON CLASE confactura JUE 21\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4 CON CLASE confactura JUE 21\Entidades\obj\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 CON CLASE confactura JUE 21\Entidades\obj\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 CON CLASE con evento funda.VIERNES TARDE\Entidades\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 CON CLASE con evento funda.VIERNES TARDE\Entidades\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 CON CLASE con evento funda.VIERNES TARDE\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4 CON CLASE con evento funda.VIERNES TARDE\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4 CON CLASE con evento funda.VIERNES TARDE\Entidades\obj\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 CON CLASE con evento funda.VIERNES TARDE\Entidades\obj\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 luchando con hilo casi terminado VIE noche\Entidades\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 luchando con hilo casi terminado VIE noche\Entidades\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 luchando con hilo casi terminado VIE noche\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4 luchando con hilo casi terminado VIE noche\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4 luchando con hilo casi terminado VIE noche\Entidades\obj\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 luchando con hilo casi terminado VIE noche\Entidades\obj\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 Sabado- con disenio\Entidades\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 Sabado- con disenio\Entidades\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 Sabado- con disenio\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4 Sabado- con disenio\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4 Sabado- con disenio\Entidades\obj\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 Sabado- con disenio\Entidades\obj\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 Sabado- con disenio.text.box\Entidades\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 Sabado- con disenio.text.box\Entidades\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 Sabado- con disenio.text.box\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4 Sabado- con disenio.text.box\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4 Sabado- con disenio.text.box\Entidades\obj\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 Sabado- con disenio.text.box\Entidades\obj\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 Sabado- 4AM conserializer\Entidades\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 Sabado- 4AM conserializer\Entidades\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 Sabado- 4AM conserializer\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4 Sabado- 4AM conserializer\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4 Sabado- 4AM conserializer\Entidades\obj\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 Sabado- 4AM conserializer\Entidades\obj\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 Domingo 16.40\Entidades\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 Domingo 16.40\Entidades\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 Domingo 16.40\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4 Domingo 16.40\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4 Domingo 16.40\Entidades\obj\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 Domingo 16.40\Entidades\obj\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 Domingo 24 HS\Entidades\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 Domingo 24 HS\Entidades\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 Domingo 24 HS\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4 Domingo 24 HS\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4 Domingo 24 HS\Entidades\obj\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 Domingo 24 HS\Entidades\obj\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 Domingo 5 am HS\Entidades\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 Domingo 5 am HS\Entidades\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 Domingo 5 am HS\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4 Domingo 5 am HS\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4 Domingo 5 am HS\Entidades\obj\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 Domingo 5 am HS\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,70 @@
+C:\Users\feder\Desktop\TP4-copia\TestConsola\bin\Debug\TestConsola.exe.config
+C:\Users\feder\Desktop\TP4-copia\TestConsola\bin\Debug\TestConsola.exe
+C:\Users\feder\Desktop\TP4-copia\TestConsola\bin\Debug\TestConsola.pdb
+C:\Users\feder\Desktop\TP4-copia\TestConsola\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4-copia\TestConsola\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4-copia\TestConsola\obj\Debug\TestConsola.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4-copia\TestConsola\obj\Debug\TestConsola.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4-copia\TestConsola\obj\Debug\TestConsola.csproj.CopyComplete
+C:\Users\feder\Desktop\TP4-copia\TestConsola\obj\Debug\TestConsola.exe
+C:\Users\feder\Desktop\TP4-copia\TestConsola\obj\Debug\TestConsola.pdb
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -MIERC NOCHE\TestConsola\bin\Debug\TestConsola.exe.config
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -MIERC NOCHE\TestConsola\bin\Debug\TestConsola.exe
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -MIERC NOCHE\TestConsola\bin\Debug\TestConsola.pdb
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -MIERC NOCHE\TestConsola\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -MIERC NOCHE\TestConsola\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -MIERC NOCHE\TestConsola\obj\Debug\TestConsola.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -MIERC NOCHE\TestConsola\obj\Debug\TestConsola.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -MIERC NOCHE\TestConsola\obj\Debug\TestConsola.csproj.CopyComplete
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -MIERC NOCHE\TestConsola\obj\Debug\TestConsola.exe
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -MIERC NOCHE\TestConsola\obj\Debug\TestConsola.pdb
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -juetarde\TestConsola\bin\Debug\TestConsola.exe.config
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -juetarde\TestConsola\bin\Debug\TestConsola.exe
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -juetarde\TestConsola\bin\Debug\TestConsola.pdb
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -juetarde\TestConsola\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -juetarde\TestConsola\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -juetarde\TestConsola\obj\Debug\TestConsola.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -juetarde\TestConsola\obj\Debug\TestConsola.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -juetarde\TestConsola\obj\Debug\TestConsola.csproj.CopyComplete
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -juetarde\TestConsola\obj\Debug\TestConsola.exe
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -juetarde\TestConsola\obj\Debug\TestConsola.pdb
+C:\Users\feder\Desktop\TP4 Sabado- con disenio.text.box\TestConsola\bin\Debug\TestConsola.exe.config
+C:\Users\feder\Desktop\TP4 Sabado- con disenio.text.box\TestConsola\bin\Debug\TestConsola.exe
+C:\Users\feder\Desktop\TP4 Sabado- con disenio.text.box\TestConsola\bin\Debug\TestConsola.pdb
+C:\Users\feder\Desktop\TP4 Sabado- con disenio.text.box\TestConsola\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 Sabado- con disenio.text.box\TestConsola\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 Sabado- con disenio.text.box\TestConsola\obj\Debug\TestConsola.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4 Sabado- con disenio.text.box\TestConsola\obj\Debug\TestConsola.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4 Sabado- con disenio.text.box\TestConsola\obj\Debug\TestConsola.csproj.CopyComplete
+C:\Users\feder\Desktop\TP4 Sabado- con disenio.text.box\TestConsola\obj\Debug\TestConsola.exe
+C:\Users\feder\Desktop\TP4 Sabado- con disenio.text.box\TestConsola\obj\Debug\TestConsola.pdb
+C:\Users\feder\Desktop\TP4 Sabado- 4AM conserializer\TestConsola\bin\Debug\TestConsola.exe.config
+C:\Users\feder\Desktop\TP4 Sabado- 4AM conserializer\TestConsola\bin\Debug\TestConsola.exe
+C:\Users\feder\Desktop\TP4 Sabado- 4AM conserializer\TestConsola\bin\Debug\TestConsola.pdb
+C:\Users\feder\Desktop\TP4 Sabado- 4AM conserializer\TestConsola\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 Sabado- 4AM conserializer\TestConsola\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 Sabado- 4AM conserializer\TestConsola\obj\Debug\TestConsola.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4 Sabado- 4AM conserializer\TestConsola\obj\Debug\TestConsola.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4 Sabado- 4AM conserializer\TestConsola\obj\Debug\TestConsola.csproj.CopyComplete
+C:\Users\feder\Desktop\TP4 Sabado- 4AM conserializer\TestConsola\obj\Debug\TestConsola.exe
+C:\Users\feder\Desktop\TP4 Sabado- 4AM conserializer\TestConsola\obj\Debug\TestConsola.pdb
+C:\Users\feder\Desktop\TP4 Domingo 16.40\TestConsola\bin\Debug\TestConsola.exe.config
+C:\Users\feder\Desktop\TP4 Domingo 16.40\TestConsola\bin\Debug\TestConsola.exe
+C:\Users\feder\Desktop\TP4 Domingo 16.40\TestConsola\bin\Debug\TestConsola.pdb
+C:\Users\feder\Desktop\TP4 Domingo 16.40\TestConsola\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 Domingo 16.40\TestConsola\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 Domingo 16.40\TestConsola\obj\Debug\TestConsola.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4 Domingo 16.40\TestConsola\obj\Debug\TestConsola.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4 Domingo 16.40\TestConsola\obj\Debug\TestConsola.csproj.CopyComplete
+C:\Users\feder\Desktop\TP4 Domingo 16.40\TestConsola\obj\Debug\TestConsola.exe
+C:\Users\feder\Desktop\TP4 Domingo 16.40\TestConsola\obj\Debug\TestConsola.pdb
+C:\Users\feder\Desktop\TP4 Domingo 24 HS\TestConsola\bin\Debug\TestConsola.exe.config
+C:\Users\feder\Desktop\TP4 Domingo 24 HS\TestConsola\bin\Debug\TestConsola.exe
+C:\Users\feder\Desktop\TP4 Domingo 24 HS\TestConsola\bin\Debug\TestConsola.pdb
+C:\Users\feder\Desktop\TP4 Domingo 24 HS\TestConsola\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 Domingo 24 HS\TestConsola\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 Domingo 24 HS\TestConsola\obj\Debug\TestConsola.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4 Domingo 24 HS\TestConsola\obj\Debug\TestConsola.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4 Domingo 24 HS\TestConsola\obj\Debug\TestConsola.csproj.CopyComplete
+C:\Users\feder\Desktop\TP4 Domingo 24 HS\TestConsola\obj\Debug\TestConsola.exe
+C:\Users\feder\Desktop\TP4 Domingo 24 HS\TestConsola\obj\Debug\TestConsola.pdb

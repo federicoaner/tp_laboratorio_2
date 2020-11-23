@@ -1,0 +1,36 @@
+CASA DE MUSICA:
+CANTIDAD DE VENTAS: 4
+TOTAL ACUMULADO ES: 40000 pesos. 
+
+--------------------------------------------------------
+
+MARCA: Gibson
+MODELO: Les Paul
+ESTADO:usado
+PRECIO:10000
+TIPO: Guitarra
+FACTURA NRO: 1
+--------------------------------------------------------
+
+MARCA: Stradivarius
+MODELO: pepito
+ESTADO:usado
+PRECIO:10000
+TIPO: Violin
+FACTURA NRO: 2
+--------------------------------------------------------
+
+MARCA: Fender
+MODELO: precision Bass
+ESTADO:nuevo
+PRECIO:10000
+TIPO: Bajo
+FACTURA NRO: 3
+--------------------------------------------------------
+
+MARCA: Tama
+MODELO: Sx
+ESTADO:nuevo
+PRECIO:10000
+TIPO: Bateria
+FACTURA NRO: 4

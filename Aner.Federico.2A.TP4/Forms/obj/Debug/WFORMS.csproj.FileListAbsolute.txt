@@ -1,0 +1,126 @@
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -juetarde\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.exe.config
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -juetarde\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.exe
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -juetarde\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.pdb
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -juetarde\BaseDatosStockConexion\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -juetarde\BaseDatosStockConexion\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -juetarde\BaseDatosStockConexion\obj\Debug\WFORMS.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -juetarde\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.frmInstrumentos.resources
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -juetarde\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.FrmPrincipal.resources
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -juetarde\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.Properties.Resources.resources
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -juetarde\BaseDatosStockConexion\obj\Debug\WFORMS.csproj.GenerateResource.cache
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -juetarde\BaseDatosStockConexion\obj\Debug\WFORMS.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -juetarde\BaseDatosStockConexion\obj\Debug\WFORMS.csproj.CopyComplete
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -juetarde\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.exe
+C:\Users\feder\Desktop\TP4 CON CLASE CARRITO -juetarde\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.pdb
+C:\Users\feder\Desktop\TP4 CON CLASE confactura JUE 21\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.exe.config
+C:\Users\feder\Desktop\TP4 CON CLASE confactura JUE 21\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.exe
+C:\Users\feder\Desktop\TP4 CON CLASE confactura JUE 21\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.pdb
+C:\Users\feder\Desktop\TP4 CON CLASE confactura JUE 21\BaseDatosStockConexion\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 CON CLASE confactura JUE 21\BaseDatosStockConexion\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 CON CLASE confactura JUE 21\BaseDatosStockConexion\obj\Debug\WFORMS.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4 CON CLASE confactura JUE 21\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.frmInstrumentos.resources
+C:\Users\feder\Desktop\TP4 CON CLASE confactura JUE 21\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.FrmPrincipal.resources
+C:\Users\feder\Desktop\TP4 CON CLASE confactura JUE 21\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.Properties.Resources.resources
+C:\Users\feder\Desktop\TP4 CON CLASE confactura JUE 21\BaseDatosStockConexion\obj\Debug\WFORMS.csproj.GenerateResource.cache
+C:\Users\feder\Desktop\TP4 CON CLASE confactura JUE 21\BaseDatosStockConexion\obj\Debug\WFORMS.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4 CON CLASE confactura JUE 21\BaseDatosStockConexion\obj\Debug\WFORMS.csproj.CopyComplete
+C:\Users\feder\Desktop\TP4 CON CLASE confactura JUE 21\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.exe
+C:\Users\feder\Desktop\TP4 CON CLASE confactura JUE 21\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.pdb
+C:\Users\feder\Desktop\TP4 CON CLASE con evento funda.VIERNES TARDE\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.exe.config
+C:\Users\feder\Desktop\TP4 CON CLASE con evento funda.VIERNES TARDE\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.exe
+C:\Users\feder\Desktop\TP4 CON CLASE con evento funda.VIERNES TARDE\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.pdb
+C:\Users\feder\Desktop\TP4 CON CLASE con evento funda.VIERNES TARDE\BaseDatosStockConexion\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 CON CLASE con evento funda.VIERNES TARDE\BaseDatosStockConexion\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 CON CLASE con evento funda.VIERNES TARDE\BaseDatosStockConexion\obj\Debug\WFORMS.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4 CON CLASE con evento funda.VIERNES TARDE\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.frmInstrumentos.resources
+C:\Users\feder\Desktop\TP4 CON CLASE con evento funda.VIERNES TARDE\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.FrmPrincipal.resources
+C:\Users\feder\Desktop\TP4 CON CLASE con evento funda.VIERNES TARDE\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.Properties.Resources.resources
+C:\Users\feder\Desktop\TP4 CON CLASE con evento funda.VIERNES TARDE\BaseDatosStockConexion\obj\Debug\WFORMS.csproj.GenerateResource.cache
+C:\Users\feder\Desktop\TP4 CON CLASE con evento funda.VIERNES TARDE\BaseDatosStockConexion\obj\Debug\WFORMS.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4 CON CLASE con evento funda.VIERNES TARDE\BaseDatosStockConexion\obj\Debug\WFORMS.csproj.CopyComplete
+C:\Users\feder\Desktop\TP4 CON CLASE con evento funda.VIERNES TARDE\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.exe
+C:\Users\feder\Desktop\TP4 CON CLASE con evento funda.VIERNES TARDE\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.pdb
+C:\Users\feder\Desktop\TP4 luchando con hilo casi terminado VIE noche\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.exe.config
+C:\Users\feder\Desktop\TP4 luchando con hilo casi terminado VIE noche\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.exe
+C:\Users\feder\Desktop\TP4 luchando con hilo casi terminado VIE noche\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.pdb
+C:\Users\feder\Desktop\TP4 luchando con hilo casi terminado VIE noche\BaseDatosStockConexion\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 luchando con hilo casi terminado VIE noche\BaseDatosStockConexion\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 luchando con hilo casi terminado VIE noche\BaseDatosStockConexion\obj\Debug\WFORMS.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4 luchando con hilo casi terminado VIE noche\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.frmInstrumentos.resources
+C:\Users\feder\Desktop\TP4 luchando con hilo casi terminado VIE noche\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.FrmPrincipal.resources
+C:\Users\feder\Desktop\TP4 luchando con hilo casi terminado VIE noche\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.Properties.Resources.resources
+C:\Users\feder\Desktop\TP4 luchando con hilo casi terminado VIE noche\BaseDatosStockConexion\obj\Debug\WFORMS.csproj.GenerateResource.cache
+C:\Users\feder\Desktop\TP4 luchando con hilo casi terminado VIE noche\BaseDatosStockConexion\obj\Debug\WFORMS.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4 luchando con hilo casi terminado VIE noche\BaseDatosStockConexion\obj\Debug\WFORMS.csproj.CopyComplete
+C:\Users\feder\Desktop\TP4 luchando con hilo casi terminado VIE noche\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.exe
+C:\Users\feder\Desktop\TP4 luchando con hilo casi terminado VIE noche\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.pdb
+C:\Users\feder\Desktop\TP4 Sabado-Agregado Test\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.exe.config
+C:\Users\feder\Desktop\TP4 Sabado-Agregado Test\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.exe
+C:\Users\feder\Desktop\TP4 Sabado-Agregado Test\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.pdb
+C:\Users\feder\Desktop\TP4 Sabado-Agregado Test\BaseDatosStockConexion\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 Sabado-Agregado Test\BaseDatosStockConexion\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 Sabado-Agregado Test\BaseDatosStockConexion\obj\Debug\WFORMS.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4 Sabado-Agregado Test\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.frmInstrumentos.resources
+C:\Users\feder\Desktop\TP4 Sabado-Agregado Test\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.FrmPrincipal.resources
+C:\Users\feder\Desktop\TP4 Sabado-Agregado Test\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.Properties.Resources.resources
+C:\Users\feder\Desktop\TP4 Sabado-Agregado Test\BaseDatosStockConexion\obj\Debug\WFORMS.csproj.GenerateResource.cache
+C:\Users\feder\Desktop\TP4 Sabado-Agregado Test\BaseDatosStockConexion\obj\Debug\WFORMS.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4 Sabado-Agregado Test\BaseDatosStockConexion\obj\Debug\WFORMS.csproj.CopyComplete
+C:\Users\feder\Desktop\TP4 Sabado-Agregado Test\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.exe
+C:\Users\feder\Desktop\TP4 Sabado-Agregado Test\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.pdb
+C:\Users\feder\Desktop\TP4 Sabado- con disenio\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.exe.config
+C:\Users\feder\Desktop\TP4 Sabado- con disenio\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.exe
+C:\Users\feder\Desktop\TP4 Sabado- con disenio\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.pdb
+C:\Users\feder\Desktop\TP4 Sabado- con disenio\BaseDatosStockConexion\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 Sabado- con disenio\BaseDatosStockConexion\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 Sabado- con disenio\BaseDatosStockConexion\obj\Debug\WFORMS.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4 Sabado- con disenio\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.frmInstrumentos.resources
+C:\Users\feder\Desktop\TP4 Sabado- con disenio\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.FrmPrincipal.resources
+C:\Users\feder\Desktop\TP4 Sabado- con disenio\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.Properties.Resources.resources
+C:\Users\feder\Desktop\TP4 Sabado- con disenio\BaseDatosStockConexion\obj\Debug\WFORMS.csproj.GenerateResource.cache
+C:\Users\feder\Desktop\TP4 Sabado- con disenio\BaseDatosStockConexion\obj\Debug\WFORMS.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4 Sabado- con disenio\BaseDatosStockConexion\obj\Debug\WFORMS.csproj.CopyComplete
+C:\Users\feder\Desktop\TP4 Sabado- con disenio\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.exe
+C:\Users\feder\Desktop\TP4 Sabado- con disenio\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.pdb
+C:\Users\feder\Desktop\TP4 Sabado- con disenio.text.box\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.exe.config
+C:\Users\feder\Desktop\TP4 Sabado- con disenio.text.box\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.exe
+C:\Users\feder\Desktop\TP4 Sabado- con disenio.text.box\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.pdb
+C:\Users\feder\Desktop\TP4 Sabado- con disenio.text.box\BaseDatosStockConexion\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 Sabado- con disenio.text.box\BaseDatosStockConexion\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 Sabado- con disenio.text.box\BaseDatosStockConexion\obj\Debug\WFORMS.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4 Sabado- con disenio.text.box\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.frmInstrumentos.resources
+C:\Users\feder\Desktop\TP4 Sabado- con disenio.text.box\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.FrmPrincipal.resources
+C:\Users\feder\Desktop\TP4 Sabado- con disenio.text.box\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.Properties.Resources.resources
+C:\Users\feder\Desktop\TP4 Sabado- con disenio.text.box\BaseDatosStockConexion\obj\Debug\WFORMS.csproj.GenerateResource.cache
+C:\Users\feder\Desktop\TP4 Sabado- con disenio.text.box\BaseDatosStockConexion\obj\Debug\WFORMS.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4 Sabado- con disenio.text.box\BaseDatosStockConexion\obj\Debug\WFORMS.csproj.CopyComplete
+C:\Users\feder\Desktop\TP4 Sabado- con disenio.text.box\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.exe
+C:\Users\feder\Desktop\TP4 Sabado- con disenio.text.box\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.pdb
+C:\Users\feder\Desktop\TP4 Sabado- 4AM conserializer\BaseDatosStockConexion\obj\Debug\WFORMS.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4 Sabado- 4AM conserializer\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.frmInstrumentos.resources
+C:\Users\feder\Desktop\TP4 Sabado- 4AM conserializer\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.FrmPrincipal.resources
+C:\Users\feder\Desktop\TP4 Sabado- 4AM conserializer\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.Properties.Resources.resources
+C:\Users\feder\Desktop\TP4 Sabado- 4AM conserializer\BaseDatosStockConexion\obj\Debug\WFORMS.csproj.GenerateResource.cache
+C:\Users\feder\Desktop\TP4 Sabado- 4AM conserializer\BaseDatosStockConexion\obj\Debug\WFORMS.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4 Sabado- 4AM conserializer\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.exe
+C:\Users\feder\Desktop\TP4 Sabado- 4AM conserializer\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.pdb
+C:\Users\feder\Desktop\TP4 Sabado- 4AM conserializer\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.exe.config
+C:\Users\feder\Desktop\TP4 Sabado- 4AM conserializer\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.exe
+C:\Users\feder\Desktop\TP4 Sabado- 4AM conserializer\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.pdb
+C:\Users\feder\Desktop\TP4 Sabado- 4AM conserializer\BaseDatosStockConexion\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 Sabado- 4AM conserializer\BaseDatosStockConexion\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 Sabado- 4AM conserializer\BaseDatosStockConexion\obj\Debug\WFORMS.csproj.CopyComplete
+C:\Users\feder\Desktop\TP4 Domingo 16.40\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.exe.config
+C:\Users\feder\Desktop\TP4 Domingo 16.40\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.exe
+C:\Users\feder\Desktop\TP4 Domingo 16.40\BaseDatosStockConexion\bin\Debug\BaseDatosStockConexion.pdb
+C:\Users\feder\Desktop\TP4 Domingo 16.40\BaseDatosStockConexion\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\TP4 Domingo 16.40\BaseDatosStockConexion\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\TP4 Domingo 16.40\BaseDatosStockConexion\obj\Debug\WFORMS.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\TP4 Domingo 16.40\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.frmInstrumentos.resources
+C:\Users\feder\Desktop\TP4 Domingo 16.40\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.FrmPrincipal.resources
+C:\Users\feder\Desktop\TP4 Domingo 16.40\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.Properties.Resources.resources
+C:\Users\feder\Desktop\TP4 Domingo 16.40\BaseDatosStockConexion\obj\Debug\WFORMS.csproj.GenerateResource.cache
+C:\Users\feder\Desktop\TP4 Domingo 16.40\BaseDatosStockConexion\obj\Debug\WFORMS.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\TP4 Domingo 16.40\BaseDatosStockConexion\obj\Debug\WFORMS.csproj.CopyComplete
+C:\Users\feder\Desktop\TP4 Domingo 16.40\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.exe
+C:\Users\feder\Desktop\TP4 Domingo 16.40\BaseDatosStockConexion\obj\Debug\BaseDatosStockConexion.pdb
